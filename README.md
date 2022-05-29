@@ -1,2 +1,7 @@
 # AviaTickets_TestTask
-The program reads the json file and makes calculations with the data
+Программа парсит файл tickets.json и рассчитывает:
+- среднее время полета между городами Владивосток и Тель-Авив
+- 90-й процентиль времени полета между городами  Владивосток и Тель-Авив
+
+Для запуска jar файла из командной строки, воспользуйтесь командой:
+java -jar "AviaTickets_TestTask.jar"
